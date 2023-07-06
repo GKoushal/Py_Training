@@ -2,7 +2,7 @@
 
 1. git init
 2. git add <file name>
-	git add . 
+	git add. 
 3. git commit -m "Your custom message"
 4. git remote add origin <repo_limk>
 5. git push -u origin master
